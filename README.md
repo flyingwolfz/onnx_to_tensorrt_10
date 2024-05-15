@@ -10,6 +10,6 @@ modeltest.py - generate onnx file
 
 onnx_to_tensorrt.py - convert onnx to tensorrt using python
 
-main.cpp convert - onnx to tensorrt using c++
+main.cpp - convert onnx to tensorrt using c++
 
 kernel.cu / tools - some functions
