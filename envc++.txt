@@ -1,0 +1,32 @@
+Opencv
+包含
+D:\opencv\build\include
+D:\opencv\build\include\opencv2
+库
+D:\opencv\build\x64\vc16\lib
+输入
+opencv_world490d.lib    //debug
+opencv_world490.lib    //release
+
+
+cuda
+包含
+D:\cuda-samples-12.4\Common
+库
+D:\cuda-samples-12.4\Common\lib\x64
+
+freeglut.lib
+glew64.lib
+
+Dll at  D:\cuda-samples-12.4\bin\win64\Debug
+
+
+tensorrt
+包含
+D:\TensorRT-10.0.1.6\include
+库
+D:\TensorRT-10.0.1.6\lib
+输入
+nvinfer_10.lib
+nvonnxparser_10.lib
+
